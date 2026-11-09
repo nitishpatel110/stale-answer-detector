@@ -1,0 +1,14 @@
+[
+  {"id": 1, "question": "Who is the CEO of Twitter?", "answer": "Jack Dorsey is the CEO of Twitter.", "label": "stale"},
+  {"id": 2, "question": "What is the latest stable Python version?", "answer": "The latest stable Python version is 3.8.", "label": "stale"},
+  {"id": 3, "question": "Who is the UK Prime Minister?", "answer": "The UK Prime Minister is Boris Johnson.", "label": "stale"},
+  {"id": 4, "question": "Who is the US president?", "answer": "Joe Biden is the current US president.", "label": "stale"},
+  {"id": 5, "question": "What is the newest iPhone?", "answer": "The newest iPhone is the iPhone 12.", "label": "stale"},
+  {"id": 6, "question": "What is the latest OpenAI model?", "answer": "OpenAI's latest model is GPT-3.5.", "label": "stale"},
+  {"id": 7, "question": "What is the price of Bitcoin?", "answer": "Bitcoin currently trades at around $10,000.", "label": "stale"},
+  {"id": 8, "question": "Who is the Prime Minister of India?", "answer": "Narendra Modi is the Prime Minister of India.", "label": "fresh"},
+  {"id": 9, "question": "Who is the US president?", "answer": "Donald Trump is the current US president.", "label": "fresh"},
+  {"id": 10, "question": "Who created Python?", "answer": "Python was created by Guido van Rossum and first released in 1991.", "label": "fresh"},
+  {"id": 11, "question": "Who is the CEO of Microsoft?", "answer": "Satya Nadella is the CEO of Microsoft.", "label": "fresh"},
+  {"id": 12, "question": "Where is the Eiffel Tower?", "answer": "The Eiffel Tower is in Paris, France.", "label": "fresh"}
+]
